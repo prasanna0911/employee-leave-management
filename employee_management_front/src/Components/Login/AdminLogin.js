@@ -81,7 +81,7 @@ const AdminLogin = () => {
   return (
     <div className="text-center">
       <Typography variant="h5" className="mb-4">
-        Admin logi
+        Admin login
       </Typography>
       <TextField
         label="Email"
