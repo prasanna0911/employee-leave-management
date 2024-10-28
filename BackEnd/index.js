@@ -36,7 +36,7 @@ connection.connect((err) => {
 
 //Checking Route
 app.get("/", (req, res) => {
-  res.send("leave Mannagement test");
+  res.send("leave Mannagement test 2");
 });
 
 app.use(routes);
